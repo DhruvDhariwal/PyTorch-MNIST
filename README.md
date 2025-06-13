@@ -1,1 +1,1 @@
-# MNIST-Fashion-MNIST
+# PyTorch MNIST
